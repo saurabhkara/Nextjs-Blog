@@ -1,3 +1,15 @@
+
+
+
+"# Nextjs-Blog" ![screencapture-localhost-3000-2022-09-10-09_28_29](https://user-images.githubusercontent.com/28596628/189468013-0df604e9-e573-4b81-ac61-ceae0a6654c3.png)
+
+
+![screencapture-localhost-3000-article-how-to-became-react-native-developer-2022-09-10-09_29_14](https://user-images.githubusercontent.com/28596628/189468081-441b609e-6488-42a1-8338-10b64ff7305d.png)
+
+
+Strapi headless CMS used as Backened 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -31,5 +43,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# Nextjs-Blog" 
+
+
+
